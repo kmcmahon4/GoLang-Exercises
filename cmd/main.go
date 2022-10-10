@@ -5,6 +5,5 @@ import (
 )
 
 func main() {
-	exercises.Exercise5()
-
+	exercises.Exercise6(4)
 }
